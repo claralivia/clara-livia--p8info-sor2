@@ -1,26 +1,15 @@
-# Avaliação 02
+# Avaliação 03
 ## Enunciado
-Executar o Packet Trace de acordo com a demonstração do Video disponível em Recursos (Resolução de Packet Trace). O exercício propõe três cenários. Um dos cenários é carregado quando da abertura do arquivo binário anexo a essa avaliação. Assistindo o vídeo correspondente a esse exercício reproduzir a sua resolução e fazer as anotações no arquivo Word anexo.
+Executar as seguintes atividades:
+1) Configurar os serviços de Web, FTP, DNS e DHCP:
+2) Configurar a rota estática de R1 para R4, testar a conectividade a partir do PC0 usando o Ping;
+3) Configurar o IP Relay no R1;
+4) Evidencias:
+      a) Print da topologia;
+      b) Print dos pings;
+      c) Print da configuração da Interface de Rede dos PC0 e PC1 mostrando que o DHCP;
+      d) Print do Acesso ao servidor Web;
+      f) Print  de um ping usando o nome de um servidor.
 
 ## Realização
-O arquivo que contém as informações com as configurações realizadas é o [`avaliacao-02.pdf`](https://github.com/claralivia/clara-livia--p8info-sor2/blob/main/etapa-01/avaliacao-02/avaliacao-02.pdf)
-
-Nas pastas `tabela-01`, `tabela-02` e `tabela-03` contêm as configurações de suas respectivas tabelas no arquivo `.pka` de cada uma e prints da tela após ser dado o **Check Result**.
-
-### Organização das pastas
-```
-tabela-01
-├── configuracao-tabela-01.pka
-├── tabela-01-testes.png
-└── tabela-01.png
-
-tabela-02
-├── configuracao-tabela-02.pka
-├── tabela-02-testes.png
-└── tabela-02.png
-
-tabela-03
-├── configuracao-tabela-03.pka
-├── tabela-03-testes.png
-└── tabela-03.png
-```
+O arquivo que contém as evidenciações solicitadas é o [`avaliacao-03.pdf`](https://github.com/claralivia/clara-livia--p8info-sor2/blob/main/etapa-01/avaliacao-03/avaliacao-03.pdf)
