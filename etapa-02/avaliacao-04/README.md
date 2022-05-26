@@ -1,4 +1,4 @@
-# Avaliação 04
+# Avaliação 04 - Em dupla - Clara Lívia e [Pedro Julius](https://github.com/pjuliusl/PedroJulius-p8info-sor2/tree/main/Atividade-Avaliacao/Atividade-Avaliacao04))
 ## Enunciado
 Evidenciar por meio de Prints as seguintes atividades:
 1) Instalar o Openssh server em uma maquina virtual Linux;
